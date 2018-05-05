@@ -9,7 +9,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Frontend/server.js"
+  },
+  "engines": {
+    "node": "9.3.0"
   },
   "author": "",
   "license": "ISC"
